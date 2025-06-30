@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from protocol import addr_to_onion_v3
